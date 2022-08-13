@@ -24,8 +24,8 @@ class DoomFire extends StatefulWidget {
 
 class _DoomFireState extends State<DoomFire> {
   List<int> firePixelsArray = [];
-  var fireWidth = 50;
-  var fireHeight = 50;
+  var fireWidth = 100;
+  var fireHeight = 100;
   LevelFire level = LevelFire.low;
   int count = 0;
 
