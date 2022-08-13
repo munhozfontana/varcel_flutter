@@ -1,0 +1,10 @@
+C:/dev/dart/varcel_flutter/build/windows/CMakeFiles/INSTALL.dir
+C:/dev/dart/varcel_flutter/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/dev/dart/varcel_flutter/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/dev/dart/varcel_flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/dev/dart/varcel_flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/dev/dart/varcel_flutter/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/dev/dart/varcel_flutter/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/dev/dart/varcel_flutter/build/windows/runner/CMakeFiles/varcel_flutter.dir
+C:/dev/dart/varcel_flutter/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/dev/dart/varcel_flutter/build/windows/runner/CMakeFiles/ALL_BUILD.dir

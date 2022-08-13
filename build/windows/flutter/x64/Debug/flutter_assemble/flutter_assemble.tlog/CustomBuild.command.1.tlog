@@ -1,0 +1,28 @@
+^C:\DEV\DART\VARCEL_FLUTTER\BUILD\WINDOWS\CMAKEFILES\223816E2E850F73F9B226CAA2B6F71F0\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\munho\fvm\stable PROJECT_DIR=C:\dev\dart\varcel_flutter FLUTTER_ROOT=C:\Users\munho\fvm\stable FLUTTER_EPHEMERAL_DIR=C:\dev\dart\varcel_flutter\windows\flutter\ephemeral PROJECT_DIR=C:\dev\dart\varcel_flutter FLUTTER_TARGET=C:\dev\dart\varcel_flutter\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\dev\dart\varcel_flutter\.dart_tool\package_config.json C:/Users/munho/fvm/stable/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\DART\VARCEL_FLUTTER\BUILD\WINDOWS\CMAKEFILES\D1F124EBBC3C9DEA227515733313F4EF\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\DEV\DART\VARCEL_FLUTTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/dev/dart/varcel_flutter/windows -BC:/dev/dart/varcel_flutter/build/windows --check-stamp-file C:/dev/dart/varcel_flutter/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

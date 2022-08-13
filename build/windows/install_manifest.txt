@@ -1,0 +1,9 @@
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/icudtl.dat
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/flutter_windows.dll
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/dev/dart/varcel_flutter/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

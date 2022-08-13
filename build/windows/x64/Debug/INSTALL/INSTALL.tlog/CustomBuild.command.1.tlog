@@ -1,0 +1,10 @@
+^C:\DEV\DART\VARCEL_FLUTTER\BUILD\WINDOWS\CMAKEFILES\1277E37A6FB25597E39D1CAF3B9ECF2A\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
